@@ -7,7 +7,7 @@ Type "copyright", "credits" or "license()" for more information.
 Hello
 >>> 
 =============================== RESTART: Shell ===============================
->>> print("Helloooo World")
+>>> print("Helloo  World")
 [DEBUG ON]
 >>> 
 [DEBUG OFF]
